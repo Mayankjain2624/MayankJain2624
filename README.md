@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankjain2624&label=Profile%20views&color=0e75b6&style=flat" alt="mayankjain2624" /> </p>
 
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankjain2624" alt="mayankjain2624" /></a> </p>
-
+ <img align="right" src="https://camo.githubusercontent.com/b854c8df55b2d4b92f7079be6c5fcf17216ecb21d1890ecfcb6e69bbd9ee8342/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6c32324f684d4c416c56446238555157652f67697068792e676966" width="200" alt="coding gif" />
 - 🔭 I’m currently working on [BinGo](https://github.com/Mayankjain2624/BinGo)
 
 - 🌱 I’m currently learning **docker django**
